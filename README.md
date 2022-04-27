@@ -3,7 +3,7 @@
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-This is a program aiming to crack some CAPTCHA of several websites, which include deep learning method.
+This is a program aiming to crack some CAPTCHA of several websites made by training a deep learning method.
 
 
 
