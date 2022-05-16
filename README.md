@@ -76,7 +76,7 @@ Image blurring is achieved by convolving the image with a low-pass filter kernel
 
 ### Model building and training
 #### Model Architecture
-![alt text](https://raw.githubusercontent.com/vivekalex61/captcha_cracking/main/images/captcha_model.png.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/captcha_cracking/main/images/captcha_model.png)
 
 
 #### Loss function
