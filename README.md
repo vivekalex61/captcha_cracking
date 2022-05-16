@@ -76,15 +76,15 @@ Image blurring is achieved by convolving the image with a low-pass filter kernel
 
 ### Model building and training
 #### Model Architecture
+![alt text](https://raw.githubusercontent.com/vivekalex61/captcha_cracking/main/images/captcha_model.png.png)
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/captcha_cracking/main/images/captcha model.png)
 
 #### Loss function
 
 Connectionist Temporal Classification (CTC) loss :
 Connectionist Temporal Classification (CTC) is a type of Neural Network output helpful in tackling sequence problems like handwriting and speech recognition where the timing varies. Using CTC ensures that one does not need an aligned dataset, which makes the training process more straightforward.
 
-![alt text](https://raw.githubusercontent.com/vivekalex61/captcha_cracking/main/images/training epoch.png)
+![alt text](https://raw.githubusercontent.com/vivekalex61/captcha_cracking/main/images/training_epoch.png)
 
 ref: 1,https://distill.pub/2017/ctc/ , 2,https://sid2697.github.io/Blog_Sid/algorithm/2019/10/19/CTC-Loss.html
 3,https://stackoverflow.com/questions/57292896/understanding-ctc-loss-for-speech-recognition-in-keras
